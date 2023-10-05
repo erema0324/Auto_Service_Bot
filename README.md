@@ -90,7 +90,7 @@ bot2 = TeleBot(token2)</code></pre>
             <dd>Manages all operations related to the database, defines the database schema, and provides functions to interact with it.</dd>
             <dt>notification.py</dt>
             <dd>Responsible for sending notifications to bot users and manages notification scheduling and broadcast message commands.</dd>
-            <dt>TerminSTOWerkstatt.py</dt>
+            <dt>STOWerkstatt.py</dt>
             <dd>Handles scheduling logic, checks availability, and manages notifications related to workshop appointments.</dd>
             <dt>autobd.txt</dt>
             <dd>Contains data about various car models and is used to provide information to the user when selecting a type of vehicle.</dd>
