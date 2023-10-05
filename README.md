@@ -96,9 +96,7 @@ bot2 = TeleBot(token2)</code></pre>
             <dd>Contains data about various car models and is used to provide information to the user when selecting a type of vehicle.</dd>
         </dl>
     </section>
-    <footer>
-        <p>&copy; 2023 Auto Service Bot. All rights reserved.</p>
-    </footer>
+
 </body>
 </html>
 
