@@ -81,8 +81,24 @@ bot2 = TeleBot(token2)</code></pre>
             <li><a href="https://docs.python.org/3/library/sqlite3.html" target="_blank">SQLite in Python</a></li>
         </ul>
     </section>
+    <section>
+        <h2>File Descriptions</h2>
+        <dl>
+            <dt>bot.py</dt>
+            <dd>Manages interactions with users through Telegram, initializes the bot, and processes commands from users.</dd>
+            <dt>db.py</dt>
+            <dd>Manages all operations related to the database, defines the database schema, and provides functions to interact with it.</dd>
+            <dt>notification.py</dt>
+            <dd>Responsible for sending notifications to bot users and manages notification scheduling and broadcast message commands.</dd>
+            <dt>TerminSTOWerkstatt.py</dt>
+            <dd>Handles scheduling logic, checks availability, and manages notifications related to workshop appointments.</dd>
+            <dt>autobd.txt</dt>
+            <dd>Contains data about various car models and is used to provide information to the user when selecting a type of vehicle.</dd>
+        </dl>
+    </section>
     <footer>
         <p>&copy; 2023 Auto Service Bot. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
